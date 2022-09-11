@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "100031179691",
+    "project_id": "quizmaker-1c573",
+    "storage_bucket": "quizmaker-1c573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100031179691:android:ec02e32ec0bacf05cc00ee",
+        "android_client_info": {
+          "package_name": "com.mechsit.quizmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100031179691-kqa7dr49npf1ug09ipgcbjr516ibkdsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mechsit.quizmaker",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "100031179691-l47idg91u3hp17j788g4tauqkqsvq6go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq0TR8GKDhUTtVXMUfLydoUHLeaSRBsfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100031179691-l47idg91u3hp17j788g4tauqkqsvq6go.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100031179691-6eaheljp5rfr7u32dl7se9opvmfe8uss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mechsit.quizmaker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
